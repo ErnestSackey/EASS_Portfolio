@@ -25,5 +25,5 @@ Created a column which contains the filtered tweets of the words that are needle
 
 TF-IDF Features were used (Term frequency - Inverse Document frequency)
 
-![](https://github.com/ErnestSackey/EASS_Portfolio/blob/main/images/newplot.png)
-![](https://github.com/ErnestSackey/EASS_Portfolio/blob/main/images/wordcloud.png)
+![](/images/newplot.png)
+![](/images/wordcloud.png)
