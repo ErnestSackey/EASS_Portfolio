@@ -24,3 +24,6 @@ Created a column which contains the filtered tweets of the words that are needle
 - Tokenization with SpaCy
 
 TF-IDF Features were used (Term frequency - Inverse Document frequency)
+
+![](https://github.com/ErnestSackey/EASS_Portfolio/blob/main/images/newplot.png)
+![](https://github.com/ErnestSackey/EASS_Portfolio/blob/main/images/wordcloud.png)
